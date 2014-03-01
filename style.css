@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.container {
+	margin:0 auto;
+	min-width:800px;
+	width:70%;
+}
+
+
+.content {
+	width:600px;
+	margin:0 auto;
+	padding:10px;
+}
+
+.form {
+	width:400px;
+	margin:0 auto;
+	background:#e8e8e8;
+}
+
+.canvas {
+	margin-top:50px;
+}
+
+canvas {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
